@@ -16,7 +16,7 @@ Após saber da tal fato, analisemos a estrutura da tecnologia git. Ela é compos
 
 ### Ciclo de vida dos arquivos no git :heart:
 
-![ciclo de vida dos arquivos no git](..\dinamica_git.PNG) 
+![dinamica_git](https://user-images.githubusercontent.com/71770334/145728550-9c978f05-6489-45c8-b198-928c56538862.PNG)
 
 
 
