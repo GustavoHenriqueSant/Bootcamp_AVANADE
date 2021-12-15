@@ -16,13 +16,10 @@ Após saber da tal fato, analisemos a estrutura da tecnologia git. Ela é compos
 
 ### Ciclo de vida dos arquivos no git :heart:
 
-![ciclo de vida dos arquivos no git](C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Git_and_GitHub\dinamica_git.PNG) 
+![dinamica_git](https://user-images.githubusercontent.com/71770334/145728550-9c978f05-6489-45c8-b198-928c56538862.PNG)
 
 
 
 ### Como resolver conflitos no github :facepunch:
 
 Note que anteriormente vc n tinha ciência sobre conflitos no git, o comando "git pull origin <branch_name>". Ao ter um arquivo para modificação em seu repositório local, e algum parceiro de equipe ter o mesmo em sua máquina, ocorrerá a situação onde, o último a tentar realizar o push no github estará mexendo no arquivo não sincronizado com o servidor. Dentre essas situações pode ocorrer que vc tente modificar a mesma linha que seu parceiro, e assim ocorrendo os conflitos. Para resolve-los, usamos o comando git pull, que pega o estado atual do servidor e mescla com as suas modificações, e te mostra aonde ocorre os conflitos. Dessa maneira vc e seu parceiro são capazes de resolver o conflito manualmente.
-
-
-
