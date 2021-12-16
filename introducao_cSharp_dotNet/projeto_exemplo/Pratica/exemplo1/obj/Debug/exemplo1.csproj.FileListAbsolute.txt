@@ -1,0 +1,7 @@
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\bin\Debug\exemplo1.exe.config
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\bin\Debug\exemplo1.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\bin\Debug\exemplo1.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\obj\Debug\exemplo1.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\obj\Debug\exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\obj\Debug\exemplo1.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\introducao_cSharp_dotNet\projeto_exemplo\Pratica\exemplo1\obj\Debug\exemplo1.pdb
