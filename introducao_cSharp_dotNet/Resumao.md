@@ -28,4 +28,25 @@ Os namespace's são usadas para organizar as classes, ao declarar um namespace f
 
 
 
-### 
+### Classes
+
+A sintaxe refente a classes é idêntico a java, tirando o fator do namespace.
+
+
+
+### Interface
+
+A interface também segue o mesmo padrão do Java. Porém para especificar que um classe implementa uma interface usa-se ":", por exemplo:
+
+> **class** Gato : **IAnimal**{
+>
+> }
+
+
+
+### Enum
+
+
+
+
+
