@@ -46,6 +46,20 @@ A interface também segue o mesmo padrão do Java. Porém para especificar que u
 
 ### Enum
 
+Não me lembro como era em Java, mas tenho a impressão de ser diferente. Mas parece-se com dicionários em python:
+
+> enum name_enum{
+>
+> ​		constante1,
+>
+> ​		constante2,
+>
+> ​			...
+>
+> ​		constanteN
+>
+> }
+
 
 
 

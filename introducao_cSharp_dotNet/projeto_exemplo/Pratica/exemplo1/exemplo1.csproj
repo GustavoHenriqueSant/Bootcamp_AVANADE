@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enum.cs" />
     <Compile Include="interface.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
