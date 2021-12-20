@@ -1,0 +1,16 @@
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\pilha_ED.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\pilha_ED.deps.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\pilha_ED.runtimeconfig.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\pilha_ED.runtimeconfig.dev.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\pilha_ED.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\ref\pilha_ED.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\bin\Debug\net5.0\pilha_ED.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.AssemblyInfoInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.AssemblyInfo.cs
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\ref\pilha_ED.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\primeiros_passos_.net\estrutura_de_dado_pilha\pilha_ED\obj\Debug\net5.0\pilha_ED.genruntimeconfig.cache
