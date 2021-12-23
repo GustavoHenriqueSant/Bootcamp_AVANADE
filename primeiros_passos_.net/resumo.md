@@ -122,3 +122,74 @@ Enfatiza-se também que cada **membro de uma classe possui uma acessibilidade**,
 > inverter(int * x, int * y){} em C
 
 É mostrado também o operando "out", que pelo q eu entendi instancia variáveis através da função. Exemplos para ambas estão no repositório.
+
+
+
+# Trabalhando com structs, interfaces e Enum
+
+#### :red_circle: Structs
+
+As structs tem uma sintaxe muito parecido com as classes:
+
+> public struct ponto{
+>
+> ​	public int x,y;
+>
+> ​	public double distancia;
+
+> ​	
+>
+> ​	public void Ponto(int x, int y){
+>
+> ​		this.x = x;
+>
+> ​		this.y = y;
+>
+> ​	}
+>
+> }
+
+Porém possuem algumas peculiaridades diferentes. As structs não são variáveis de referências, isto implica diretamente ao fato de que seus valores são armazenados na stack e não na memória heap. Dessa forma ela possui mais performance que objetos já que n é preciso alocar memória , e para operações de entrada e saída não é preciso consultar a heap. Dessa forma quando precisamos de tipos mais simples, ou precisamos instanciar vários deles, por exemplo um vetor de 1000 índices de instâncias do tipo ponto, podemos usar a struck, porém tbm tomando o devido cuidado para evitar estouro da stack.
+
+
+
+#### :red_circle: Interfaces
+
+As interfaces são contratos que classes que as implementam deve seguir. Geralmente as interfaces constituem em assinaturas de métodos especificando seus parâmetros e seu retorno, e todas as classes que implementam uma interface deve implementa-los. Algo interessante também é que, as classes podem implementar mais de uma interface.
+
+
+
+#### :red_circle: Enum
+
+Os enums promovem a definição de dados discretos em forma de constantes descritivas. Um exemplo simples é a definição de um enum de estações:
+
+> enum estacoes {
+>
+> ​	primavera,
+>
+> ​	verão,
+>
+> ​	outono,
+>
+> ​	inverno
+>
+> }
+
+Dessa forma teríamos cada um das estações conforme um valor discreto. Como n especificamos os valos discretos a cima considera-se índices partindo do 0. Mas tbm podemos especificar os valores discretos:
+
+> enum estacoes {
+>
+> ​	primavera = 2,
+>
+> ​	verão = 3,
+>
+> ​	outono = 4,
+>
+> ​	inverno = 5
+>
+> }
+
+
+
+
+
