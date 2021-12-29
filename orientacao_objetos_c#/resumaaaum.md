@@ -9,7 +9,7 @@ Programação orientada a objetos é um paradigma de programação, i. e., defin
 
 Como já definido anteriormente, a POO tem como base o conceito de classe e objeto. Classe é um molde, e objeto são dados que passa por esse molde. 
 
-[Imagem aqui "Classe_objeto.png"]
+![Classe_objeto](https://user-images.githubusercontent.com/71770334/147622685-639c8b38-600d-4c6f-af44-8f14efb9680e.PNG)
 
 As classes são constituídas de estados e ações. Os estados são seus atributos e suas ações são os métodos presentes nela. O exemplo a cima mostra um exemplo da classe Pessoa, seus estados é representados pelos atributos nome e idade, e as ações que ela pode fazer é se apresentar. Ao lado direto pe mostrado um objeto concreto feito a partir dessa classe, fazendo a ação de se apresentar. Uma analogia apresentado que achei legal foi a de uma planta e uma casa construída, Pode-se ver a planta como a classe de um tipo de casa, e a casa construída como o objeto a partir da classe planta. Dentro desse exemplo podemos ver na prática alguns detalhes legais, como, não é possível abrir a porta da planta, mas da casa s. Do mesmo jeito é na POO, não da para manipular uma classe, é sim um objeto de uma classe.
 
@@ -31,11 +31,13 @@ O encapsulamento define uma proteção, um limite de possibilidade de alteraçã
 
 O pilar da herança, nos permite no paradigma orientado a objetos, herdar membros e comportamentos entre classes. Por exemplo, podemos ter a classe Pessoa, Professor e Aluno. Todas são classes diferentes, mas as classes Professor e Aluno herdar a classe Pessoa. Tal característica nos permite ter uma melhor reutilização de código e menos duplicação de código.
 
-
+![Herança](https://user-images.githubusercontent.com/71770334/147622903-773ecd4c-9ece-4cd2-9516-ae122a888764.PNG)
 
 # Polimorfismo :heavy_plus_sign:
 
 A palavra polimorfismo significa "várias formas". Tal característica desse paradigma promove a possibilidade de sobrescrever métodos, ou seja, uma classe filha pode refazer um método que herda da classe pai, se esse não a atender. Há dois tipos de polimorfismo: polimorfismo em tempo de execução, e polimorfismo em tempo de compilação. O primeiro remete-se ao exemplo inicial, uma classe filha sobrescrevendo o método herdado da classe pai. Já o segundo refere-se a duplicação de métodos de uma mesma classe, mudando sua assinatura. O exemplo dado foi de uma calculadora, onde temos nessa mesma classe dois métodos "somar", porém os parâmetros utilizados um no outro são diferentes.
+
+![Polimorfismo](https://user-images.githubusercontent.com/71770334/147623000-1595fba2-490f-408a-b553-29f3d1d702a6.PNG)
 
 **No polimorfismo em tempo de execução** precisamos declarar a intenção de sobrescrita tanto na classe pai tanto no classe filha. Ao declarar o método na classe pai deve-se usar a palavra-chave virtual:
 
