@@ -1,0 +1,16 @@
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\projeto_Pratica.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\projeto_Pratica.deps.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\projeto_Pratica.runtimeconfig.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\projeto_Pratica.runtimeconfig.dev.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\projeto_Pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\ref\projeto_Pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\bin\Debug\net5.0\projeto_Pratica.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.AssemblyInfoInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.AssemblyInfo.cs
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\ref\projeto_Pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Cons_Prop_Deleg_Event_.Net\projeto_Pratica\obj\Debug\net5.0\projeto_Pratica.genruntimeconfig.cache
