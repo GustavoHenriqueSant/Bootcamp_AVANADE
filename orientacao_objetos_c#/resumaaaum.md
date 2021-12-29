@@ -92,3 +92,9 @@ Que seguem a mesma sintaxe.
 # Classe Object :classical_building:
 
 A classe object é a classe base do C#, todo tipo de dados herda da classe object. Encontra-se nela alguns métodos como equals, toString, etc. Seu principal objetivo é fornecer a suas classes filhas serviços de baixo nível, como operações de referência, alocação de memória, etc.
+
+
+
+# Interfaces :desktop_computer:
+
+Uma interface pe um contrato que classes que herdam dessa interface devem seguir. Nela definimos métodos, normalmente suas assinaturas, que servem como métodos abstratos que as classes que implementam a interface devem sobrescrever. Diferente da herança de classes, uma classe filha pode herdar de mais de uma interface. Note que só é obrigatório sobrescrever os métodos, quando esses não estão implementados na interface, caso estejam, sobrescrever torna-se opcional.

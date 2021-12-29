@@ -1,0 +1,6 @@
+linha 1
+Linha 2
+Linha 3
+linha diacionada 1
+linha diacionada 2
+linha diacionada 3

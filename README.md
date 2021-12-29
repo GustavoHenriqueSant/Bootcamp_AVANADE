@@ -13,4 +13,5 @@ Repositório git criado para a finalidade de armazenar meus progressos no Bootca
 - [ ] Ler sobre o artigo recomendado pelo Gabriel sobre stack e memória Heap - /primeiros_passos_.net/resumo.md.
 - [ ] Se informar mais sobre a diferença entre campos, atributos e propriedades no domínio da linguagem C# - /primeiros_passos_.net/resumo.md.
 - [ ] Estudar a diferença entre parse e cast - /primeiros_passos_.net/resumo.md.
+- [ ] Dar uma olhada no [link apresentado no tópico de orientação a objetos](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/) e estudar o que parece interessante - ./orientacao_objetos_c#/resumaaaum.md.
 - [ ] 
