@@ -1,14 +1,23 @@
 ﻿using System;
+using ExemploPOO.Models;
 using projeto_Pratica.Models;
 
 namespace projeto_Pratica
 {
     class Program
     {
+
+        public delegate void operacao(int x, int y);
         static void Main(string[] args)
         {
-            const double pi = 3.14;
-            System.Console.WriteLine(pi);
+            Calculadora calc = new Calculadora();
+            operacao op = new operacao(calc.somar); //ou
+            // operacao op = calc.somar;
+            op.Invoke(10, 19); // ou
+            //op(10, 19);
+            
+            // const double pi = 3.14;
+            // System.Console.WriteLine(pi);
 
             // Data data = new Data();
             // data.setMes(50);

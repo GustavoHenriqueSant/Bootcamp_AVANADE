@@ -64,3 +64,33 @@ Note a diferença entre os dois modificadores, uma constante é sempre um consta
 
 
 
+# Delegates :hand:
+
+Delegates é uma forma de passar um método a uma variável, dessa maneira podemos invoca-lo dessa variável a hora que quisermos. Com isso, podemos, por exemplo, mandar um método por parâmetro. Para declararmos um delegate usamos uma sintaxe parecida com a declaração da assinatura de um método:
+
+> public delegate void Operacao(int x, int y);
+
+Dessa maneira, qualquer método que passarmos para esse delegate, deve respeitar essa assinatura. Ao declararmos o delegate podemos instancia-lo da seguinte forma:
+
+> Opracao op = new Operacao(<metodo aqui>);
+
+Dessa forma temos o delegate op, que armazena o método passado. Com ele instanciado podemos invocar o método armazenado com .invoke():
+
+> op.Invoke(<parametros do metodo>);
+
+Além dessa sintaxe, também podemos optar por:
+
+> Operacao op = <metodo aqui>;
+>
+> op(<paratetros do metodo>);
+
+Há a possibilidade também de usarmos o **multi cast delegate** que nada mais é que adicionar mais de uma referência ao delegate, ou seja, mais de um método apontado. Deve-se ainda respeitar a assinatura do método especificado na declaração do delegate. Para adicionar mais um método fazemos da seguinte forma:
+
+> op += <metodo aqui>;
+
+Dessa forma quando invocarmos o delegate ele executa todos os método q ele armazena com metodologia de prioridade FIFO, i. e. o primeiro q entra é o primeiro que sai.
+
+
+
+# Eventos :ticket:
+
