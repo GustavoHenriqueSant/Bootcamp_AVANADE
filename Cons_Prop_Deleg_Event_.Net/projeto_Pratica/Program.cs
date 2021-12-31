@@ -10,12 +10,13 @@ namespace projeto_Pratica
         public delegate void operacao(int x, int y);
         static void Main(string[] args)
         {
-            Calculadora calc = new Calculadora();
-            operacao op = new operacao(calc.somar); //ou
-            // operacao op = calc.somar;
-            op.Invoke(10, 19); // ou
-            //op(10, 19);
             
+
+            // operacao op = new operacao(Calculadora.somar); //ou
+            // // operacao op = calc.somar;
+            // op.Invoke(10, 19); // ou
+            //op(10, 19);
+
             // const double pi = 3.14;
             // System.Console.WriteLine(pi);
 

@@ -1,0 +1,16 @@
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\Collections_pratica.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\Collections_pratica.deps.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\Collections_pratica.runtimeconfig.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\Collections_pratica.runtimeconfig.dev.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\Collections_pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\ref\Collections_pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\bin\Debug\net5.0\Collections_pratica.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.AssemblyInfoInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.AssemblyInfo.cs
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\ref\Collections_pratica.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Colecoes_and_LINQ_.Net\Collections_pratica\obj\Debug\net5.0\Collections_pratica.genruntimeconfig.cache
