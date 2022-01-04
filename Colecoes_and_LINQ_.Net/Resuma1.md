@@ -34,7 +34,7 @@ Como é apresentado, os arrays são aparentemente de baixo nível, para fazer al
 
 No c#, exitem classe de coleções que agrupam valores, onde é apresentado algumas operações comuns, como ordenação, obter valor por índice, obter valor com expressões, trabalhar com tamanhos dinâmicos, etc. 
 
-[Imagem aqui - Genric_collection.png]
+![Generic_Collection](https://user-images.githubusercontent.com/71770334/148026547-81831f4b-eee3-4271-862c-73c5527ae6d9.PNG)
 
 
 
@@ -67,7 +67,7 @@ Um dicionário é um coleção que armazena pares chaves valores, permitindo des
 
 LINQ significa Language_Integrated Query, é exatamente o que é o Eloquent no Laravel, fornce uma interface para realizar querys em collections.
 
-[imagem aqui - LINQ sintaxes]
+![Linq_sintaxes](https://user-images.githubusercontent.com/71770334/148026635-a66af159-5f19-44bc-8371-ea5ad0ef5146.PNG)
 
 
 
