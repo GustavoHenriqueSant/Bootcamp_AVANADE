@@ -1,0 +1,16 @@
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\mentoria_POO.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\mentoria_POO.deps.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\mentoria_POO.runtimeconfig.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\mentoria_POO.runtimeconfig.dev.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\mentoria_POO.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\ref\mentoria_POO.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\bin\Debug\net5.0\mentoria_POO.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.AssemblyInfoInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.AssemblyInfo.cs
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\ref\mentoria_POO.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Mentoria_03_POO\mentoria_POO\obj\Debug\net5.0\mentoria_POO.genruntimeconfig.cache
