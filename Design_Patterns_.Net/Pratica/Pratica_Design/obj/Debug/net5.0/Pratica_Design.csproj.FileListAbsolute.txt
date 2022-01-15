@@ -1,0 +1,16 @@
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\Pratica_Design.exe
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\Pratica_Design.deps.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\Pratica_Design.runtimeconfig.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\Pratica_Design.runtimeconfig.dev.json
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\Pratica_Design.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\ref\Pratica_Design.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\bin\Debug\net5.0\Pratica_Design.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.csproj.AssemblyReference.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.AssemblyInfoInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.AssemblyInfo.cs
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\ref\Pratica_Design.dll
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.pdb
+C:\Users\Gustavo\workSpace\Bootcamp_AVANADE\Design_Patterns_.Net\Pratica\Pratica_Design\obj\Debug\net5.0\Pratica_Design.genruntimeconfig.cache
