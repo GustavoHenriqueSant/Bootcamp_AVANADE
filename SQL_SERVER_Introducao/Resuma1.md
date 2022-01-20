@@ -30,7 +30,15 @@ Podemos criar tabelas dentro do banco como a seguir:
 
 É introduzido no vídeo o conceito de modelagem do banco de dados, a configuração das tabelas, seus comportamentos e conexões deve ser adaptadas aos seus negócios. O que é dito mais detalhadamente refere-se a configuração das tabelas, temos propriedades que podemos colocar em cada uma das colunas de uma tabela, dizendo se ela pode ser null ou n, e tantas outras. Além disse determinar o tipo correto é de suma importância, cada um dos tipos detêm um número de bits que ocupará no disco, saber bem a regra de negócio que a aplicação está inserida e escolher bem as configurações da tabela pode preservar bastante espaço em disco sem comprometer  a regra de negócio implementada.
 
+Ademais podemos deletar uma tabela com o seguinte comando:
 
+> drop table <table name>
+
+
+
+# Primeiras instruções SQL :beginner:
+
+É demonstrado algumas instruções SQL para amnipulação de tabelas, dentre elas:  Insert, select, delete e update. Para mais informações e exemplos acesse o arquivo de exemplo prático.
 
 
 
